@@ -4,7 +4,7 @@
 "manifest_version": 2,
 "description": "An extension that tracks the prices of varies cryptocurrencies",
 "permissions": [
-          "https://www.cryptonator.com/api/ticker"
+          "https://api.bitcoinaverage.com"
         ],
 "browser_action":{
  "default_icon": "rock.png",
